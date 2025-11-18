@@ -336,10 +336,10 @@ The card-based layout, improved contrast, and modern animations create a premium
 - Spotify Brand Guidelines
 
 ### Contact:
-**Project by**: [Chowdam Dharani priya]  
+**Project by**: Chowdam Dharani priya  
 **Internship**: UI/UX Design  
 **Date**: November 18, 2025  
-**Duration**: [October-November]
+**Duration**: October-November
 
 ---
 
